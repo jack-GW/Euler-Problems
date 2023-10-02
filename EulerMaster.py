@@ -140,4 +140,5 @@ def Longest_Chain(q):
         x+=1
         n = x
     return str((arr.index(max(arr)))) + " and the length is " + str(max(arr))
-# 
+## Euler 20
+# print(sumOfDigits(math.factorial(99)))
